@@ -10,6 +10,5 @@ C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Busines
 C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\ASUS\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.pdb

@@ -18,7 +18,7 @@ namespace ConsoleUI
             foreach(var car in carManager.GetAll())
             {
                 Console.WriteLine(car.ColorId + " renkli " + car.BrandId +" marka aracın " +
-                                  car.DailyPrice + " günlük fiyatılı araç" );
+                                  car.DailyPrice + " fiyatlı araç" );
             }
         }
     }
